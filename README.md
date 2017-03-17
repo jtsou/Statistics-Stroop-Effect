@@ -1,4 +1,4 @@
-# stroop-effect
+# Stroop Effect
 
 Explore Stroop effect with a congruent words condition, and an incongruent words condition.
 
