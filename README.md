@@ -24,10 +24,10 @@ a.	Hypothesis in words:
 <li>H1: It takes longer for participants to recognize color in noncongruent conditions than for congruent.</li>
 </ul>
 <ul>Hypothesis in mathematical terms:
-<li>H0=X_bar1 = X_bar2</li>
-<li>Ha= X_bar1>X_bar2</li>
-X_bar1 is for average time it takes for noncongruent participants to recognize the color.
-X_bar2 is for average time it takes for congruent particpants to recognize the color.
+<li>H0=Mu1 = Mu2</li>
+<li>Ha= Mu1>Mu2</li>
+Mu1 is for population average time it takes for noncongruent participants to recognize the color.
+Mu2 is for population average time it takes for congruent particpants to recognize the color.
 </ul>
         
 b.	I expect to perform dependent t-test because t-test is for comparing two means and that the population mean, standard deviation are unknown. I chose dependent t-test because the test compares the means of two related groups to determine whether there is a statistically significant difference between these means. The groups are related because both participants are present in the two groups. This is a one-tail test. Moreover, due to the small sample size (n<25) t- test is more suitable. 
@@ -57,7 +57,7 @@ Central tendacy: sample mean time for <b>congruent</b> condition is 14.051125 se
 <p>
 5. Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
 <ul>
-My confidence level is 0.95 and the critical statistics value is 1.7138. the t statistics is -8.02070694411. Also we test the p value at alpha=0.05, and p-value we calculated is at 4.10300058571e-08. We reject null hypothesis and come to the conclusion that participants take longer to recognize color in noncongruent conditions. The results match up with my expections.
+My confidence interval is 0.95 and the critical statistics value is 1.7138. the t statistics is -8.02070694411. Also we test the p value at alpha=0.05, and p-value we calculated is at 4.10300058571e-08. We reject null hypothesis and come to the conclusion that participants take longer to recognize color in noncongruent conditions. The results match up with my expections.
 </ul>
 </p>
 
